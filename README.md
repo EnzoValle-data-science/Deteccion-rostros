@@ -83,3 +83,6 @@ Desarrollar un sistema de detección de rostros con reconocimiento de "liveness"
 ## Tecnologías
 - **Python**
 - **Librerías**: TensorFlow, Keras, OpenCV, Pandas, NumPy, Scikit-learn
+
+## Dataset Diposible
+https://drive.google.com/drive/folders/1Gdz_dWx3wJrKaPZ6ncJsu74djELydsch?usp=sharing
