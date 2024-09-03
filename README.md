@@ -86,3 +86,6 @@ Desarrollar un sistema de detección de rostros con reconocimiento de "liveness"
 
 ## Dataset Disponible
 https://drive.google.com/drive/folders/1Gdz_dWx3wJrKaPZ6ncJsu74djELydsch?usp=sharing
+
+## Duración del proyecto
+El proyecto fue completado en el transcurso de 3 semanas. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
