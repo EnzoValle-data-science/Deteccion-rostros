@@ -66,19 +66,6 @@ Desarrollar un sistema de detección de rostros con reconocimiento de "liveness"
 | ![predición tomada en foto](https://github.com/user-attachments/assets/cfa539ce-5981-4977-a770-6e0245f47798) | ![resultados](https://github.com/user-attachments/assets/1a65ebe3-5bef-4e37-b2cd-a74cb4a31096) |
 
 
-### ResNet50
-- **Entrenamiento**: Accuracy: 59%, Loss: 66%
-- **Validación**: Val Accuracy: 62%, Val Loss: 66%, F1-Score: 62%
-- Resultados inestables, sugiriendo problemas con la configuración del entrenamiento.
-
-| **Gráfico Accuracy y Loss**               | **Matriz de Confusión**               |
-|-------------------------------------------|---------------------------------------|
-| ![Grafico accuracy val y loss LIVENESS FACIAL resnet](https://github.com/user-attachments/assets/403fe726-2684-473e-ad5f-5e28718f45cb) | ![matriz de confusion resnet](https://github.com/user-attachments/assets/c9433421-5a9d-460a-a4da-d46438b315c6) |
-
-| **Predicción Tomada en Foto**             | **Resultados**                       |
-|-------------------------------------------|---------------------------------------|
-| ![predición tomada en foto resnet](https://github.com/user-attachments/assets/5dc3e235-89f0-457d-98a9-ddcd26aef6a4) | ![resultados resnet](https://github.com/user-attachments/assets/c0183742-e71c-4718-a512-c2cd463c10f5) |
-
 
 ## Tecnologías
 - **Python**
